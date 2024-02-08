@@ -1,8 +1,8 @@
 #DOG
 <html>
   <head>
-    <title> FAITHFUL PETS-DOGS<title>
-    </title>
+    <h1> FAITHFUL PETS-DOGS</h1>h1>
+    
     </head>
        
 </html>
